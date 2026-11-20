@@ -1,33 +1,79 @@
-<h1 align="center">Ben coldcommits</h1>
-<h3 align="center">High School Sysadmin and Hardware Developer</h3>
+<h1 align="center">Hi, I'm Ben 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coldcommits&label=Profile%20views&color=2ea7ef&style=plastic" alt="coldcommits" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coldcommits" alt="coldcommits" /></a> </p>
-
-- 🔭 I’m currently working on [designing a custom CPU](https://github.com/coldcommits/cpu-project)
-
-- 🌱 I’m currently learning **CPU architecture, extension development**
-
-- 👯 I’m looking to collaborate on [mangareader](https://github.com/coldcommits/mangareader)
-
-- 👨‍💻 All of my projects are available on [https://github.com/coldcommits](https://github.com/coldcommits)
-
-- 📫 How to reach me **frostyben50@gmail.com**
-
-- ⚡ Fun fact **I play a lot of CS2**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ben-ahn-5285933b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ben-ahn-5285933b2/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/frosty_kor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frosty_kor" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=70A5FD&center=true&vCenter=true&width=440&lines=High+school+sysadmin;Hardware+developer;Designing+a+CPU+from+scratch" alt="High school sysadmin and hardware developer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ben-ahn-5285933b2/">LinkedIn</a> ·
+  <a href="https://www.youtube.com/c/frosty_kor">YouTube</a> ·
+  <a href="mailto:frostyben50@gmail.com">frostyben50@gmail.com</a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=coldcommits&label=profile+views&color=70a5fd&style=flat-square" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coldcommits&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="coldcommits" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coldcommits&show_icons=true&theme=tokyonight&locale=en" alt="coldcommits" /></p>
+- 🔭 **Building:** a [4-bit CPU from scratch](https://github.com/coldcommits/cpu-project) in Logisim Evolution, on the way to 8-bit, Verilog and FPGAs
+- 🌱 **Learning:** CPU architecture, extension development
+- 👯 **Looking for collaborators on:** [mangareader](https://github.com/coldcommits/mangareader)
+- ⚡ **Fun fact:** I play a lot of CS2
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coldcommits&theme=dark" alt="coldcommits" /></p>
+## 🛠️ Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/coldcommits/cpu-project">cpu-project</a></h3>
+      A 4-bit CPU built from scratch in Logisim Evolution, starting from logic gates and adders. First stop on the road to an 8-bit core, then Verilog on an FPGA.
+      <br /><br />
+      <code>Logisim Evolution</code> <code>digital logic</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/coldcommits/mangareader">mangareader</a></h3>
+      A userscript that turns manga sites into a two-page spread reader, with keyboard controls, right-to-left mode and auto-advance to the next chapter.
+      <br /><br />
+      <code>JavaScript</code> <code>userscript</code> · <b>collaborators welcome</b>
+    </td>
+  </tr>
+</table>
+
+## 🧰 Tech
+
+<table>
+  <tr>
+    <td><b>Systems & hardware</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,bash,arduino" height="40" alt="Linux, Bash, Arduino" /></td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,java,js,php" height="40" alt="Python, Java, JavaScript, PHP" /></td>
+  </tr>
+  <tr>
+    <td><b>Web & backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=django,nodejs,nginx" height="40" alt="Django, Node.js, Nginx" /></td>
+  </tr>
+  <tr>
+    <td><b>Infra & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,azure,grafana,git" height="40" alt="Docker, Azure, Grafana, Git" /> <sub>+ Vagrant</sub></td>
+  </tr>
+  <tr>
+    <td><b>Data & ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,tensorflow" height="40" alt="PostgreSQL, MySQL, TensorFlow" /> <sub>+ MSSQL</sub></td>
+  </tr>
+  <tr>
+    <td><b>Creative & games</b></td>
+    <td><img src="https://skillicons.dev/icons?i=blender,ps,unity,unreal" height="40" alt="Blender, Photoshop, Unity, Unreal Engine" /></td>
+  </tr>
+</table>
+
+## 📊 Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" height="165" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=coldcommits&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
